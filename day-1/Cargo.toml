@@ -22,3 +22,7 @@ required-features = ["vickz84259"]
 [[bin]]
 name = "matt"
 path = "src/matt.rs"
+
+[[bin]]
+name = "collins"
+path = "src/collins.rs"
